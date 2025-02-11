@@ -118,10 +118,5 @@ The message point is (2, 43)
 
 Feel free to modify, extend, or improve this code. Contributions are welcome to make the code more efficient, secure, or add additional features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
---- 
-
-This `README` should provide a clear overview of the program, explain the core concepts, and guide the user on how to set it up and run it.
+## Author
+Marina Abdallah– https://github.com/Marina-Abdallah

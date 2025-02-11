@@ -108,9 +108,5 @@ The message point is (2, 43)
 - The prime number `p` and elliptic curve parameters `a` and `b` can be changed to experiment with different curves and fields.
 - The encryption and decryption steps demonstrate how elliptic curve cryptography can be used for secure communications.
 
-## Contributions
-
-Feel free to modify, extend, or improve this code. Contributions are welcome to make the code more efficient, secure, or add additional features.
-
 ## Author
 Marina Abdallah– https://github.com/Marina-Abdallah 

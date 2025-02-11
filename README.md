@@ -1,9 +1,3 @@
-# ECC-Code
-Elliptic Curve Cryptography (ECC): Worked on ECC for secure encryption and key exchange
-Here’s a `README` file for your elliptic curve encryption and decryption program:
-
----
-
 # Elliptic Curve Encryption and Decryption
 
 ## Overview
